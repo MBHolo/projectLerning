@@ -1,9 +1,11 @@
-
-
 *{
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 a{
@@ -12,4 +14,9 @@ a{
 
 h1{
   font-size: 34px;
+}
+
+#app{
+  display: flex;
+  position: relative;
 }

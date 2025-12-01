@@ -1,3 +1,9 @@
 :root{
-    --color-main: #1C2536;
+    --color-hedaer-main:    #1C2536;
+    --color-additional:     #312E81;
+    --color-text-header:    #9DA4AE;
+    --color-main-light:     #FFFFFF;
+    
+    --color-blur-block-active:      #00000041;
+    --color-blur-block-not-active:  #00000000;
 }
